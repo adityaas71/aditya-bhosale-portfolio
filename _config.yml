@@ -1,0 +1,12 @@
+
+title: "Aditya Ashok Bhosale"
+email: "adityabhosale0697@gmail.com"
+description: "Biomedical Engineer | RF Coil Designer | MRI Researcher"
+baseurl: ""
+url: "https://<your-username>.github.io"
+github_username: "aditya-ashok-bhosale"
+linkedin_username: "aditya-ashok-bhosale"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
